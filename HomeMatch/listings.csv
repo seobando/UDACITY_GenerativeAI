@@ -1,0 +1,11 @@
+,Building name,Number of bedrooms,Number of bathrooms,Property size in meters,Neigborhood name,Has parking,Has an elevator,Has garbage shut,Has a pool,Is pet friendly,Is near market places,Is near schools or universities,Is near hospitals,Is near public transport,Price in COP
+0,Poblado Suites,2,2,80,El Poblado,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"2,500,000"
+1,Laureles Towers,3,2,100,Laureles,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"3,000,000"
+2,Envigado Gardens,1,1,60,Envigado,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"1,800,000"
+3,Belén Heights,2,1,70,Belén,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,"1,600,000"
+4,Robledo Residences,3,2,90,Robledo,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"2,200,000"
+5,Itagüí Towers,2,1,65,Itagüí,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,"1,700,000"
+6,Bello Gardens,1,1,55,Bello,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"1,400,000"
+7,Sabaneta Suites,3,2,95,Sabaneta,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"2,800,000"
+8,Castilla Heights,2,1,75,Castilla,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,"1,900,000"
+9,Manrique Residences,1,1,50,Manrique,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,"1,300,000"
