@@ -17,4 +17,4 @@ This was about generative AI in computer vision to substitute specific elements 
 
 4. HomeMatch
 
-This was about using vectorized databases to answer questions where the data of the database was also generative using openAI.
+This was about using vectorized databases to answer questions where the data of the database was also generated using openAI.
